@@ -28,7 +28,7 @@
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 
 ## Working in:
--  [Actual job](https://visualnacert.com/visual-app-agricola-toda-la-potencia-de-visual-en-tu-mano-en-ingles/)
+-  [Actual job](https://visualnacert.com/visual-app-agricola-toda-la-potencia-de-visual-en-tu-mano-en-ingles/) -> [GitLab](https://gitlab.com/RaulMarco)
 - [Real Time Mobile Chat App](https://github.com/JoelKM/Real-Time-Mobile-Chat)
 
 ## How to reach me:
