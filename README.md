@@ -29,7 +29,7 @@
 
 ## Working in:
 -  [Actual job](https://visualnacert.com/visual-app-agricola-toda-la-potencia-de-visual-en-tu-mano-en-ingles/) -> [GitLab](https://gitlab.com/RaulMarco)
-- [Real Time Mobile Chat App](https://github.com/JoelKM/Real-Time-Mobile-Chat)
+- [Real Time Mobile Chat App](https://github.com/Real-Time-Mobile-Chat/app)
 
 ## How to reach me:
 <p align="left">
